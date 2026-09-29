@@ -1,0 +1,6 @@
+ami = "ami-0f8a61b66d1accaee"
+ami_id = "ami-0fef201115eefe936"
+bucket_name = "dev-terra-buck-2026"
+bucket2 = "dev-terra-buck-20266"
+name1 = "dev-myec2"
+name2 = "dev-myinstance"
